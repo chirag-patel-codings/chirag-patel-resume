@@ -87,6 +87,6 @@ Enova International (Chicago) — .NET + microservices.<br>
 Bounteous (Chicago) — .NET + Sitecore.<br>
 Slalom Consulting (Chicago) — .NET + Azure projects.<br>
 West Monroe (Chicago) — .NET consulting.<br>
-Hyatt Hotels (Chicago) — Internal .NET systems.<br><br>
-JLL (Chicago) — .NET enterprise integrations.
+Hyatt Hotels (Chicago) — Internal .NET systems.<br>
+JLL (Chicago) — .NET enterprise integrations.<br><br>
 
